@@ -11,7 +11,7 @@ For the primary keys check to see if the column is unique, otherwise create a co
 Be sure to create tables in the correct order to handle foreign keys.
 
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
-![L!](SQL code screenshot.png)
+![L!](SQL_code_screenshot.png)
 ![png!](employee_db.png)
 
 
@@ -45,4 +45,4 @@ In descending order, list the frequency count of employee last names.
 
 -Generate visualization
 Finally take steps to generate a visualization of the data, with which I could easily present to management team.
-![D!](Data visualization.png)
+![D!](Data_visualization.png)
